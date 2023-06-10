@@ -1,8 +1,8 @@
-Flask==2.2.2
-Werkzeug==2.2.2
-flask_sqlalchemy==3.0.2
-flask_login==0.6.2
+Flask
+Werkzeug
+flask_sqlalchemy
+flask_login
 gunicorn
-SQLAlchemy==1.3.13
+SQLAlchemy
 
 
