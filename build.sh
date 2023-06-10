@@ -6,4 +6,3 @@ pip install -r requirements.txt
 
 python flask init-db
 python flask create-users
-python run.py
